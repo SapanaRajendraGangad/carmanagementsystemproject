@@ -1,0 +1,28 @@
+ *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+    }
+   body{
+   
+   
+   }
+   h3{
+   text-align:center;
+   margin-bottom:50px;
+   font-size:30px;
+   margin-top:60px;
+   }
+   input{
+   height:30px;
+   }
+   
+   .submit{
+ width:80px;
+ height:30px;
+ background:#1E90FF;
+   }
+select {
+  padding:6px;
+  background:white;
+  }

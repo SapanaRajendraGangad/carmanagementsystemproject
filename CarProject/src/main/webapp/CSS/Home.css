@@ -1,0 +1,268 @@
+.heading{
+        background-image:url(img/hero-bg.jpg);
+        width:100%;
+        height: 100vh;
+    }
+    .menu{
+      background-color: white;
+        margin-left: 150px;
+        margin-top: 50px;
+        min-height: 9vh;
+        width:80%;
+       
+    }
+    .menu img{
+      width:90px;
+        float: left;
+        font-size: 30px;
+        
+    }
+    .menu ul{
+        float: right;
+        margin-right: 100px;
+        margin-top: 15px;
+        width:80%;
+        
+    }
+    .menu ul li{
+        display: inline;
+        
+    }
+    .menu ul li a{
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+        margin-left: 30px;
+    }
+    .menu a:hover{
+        background-color: red;
+        color: white;
+        padding: 3px;
+    }
+    .headerimg img{
+       width:810px;
+       margin-top: 100px;
+       float: right;
+       margin-left: 200px;
+       
+    }
+    .content{
+        margin-left: 115px;
+        float: left;
+        margin-top: 30px;
+       
+    }
+    .content input:hover{
+     background: red;
+    }
+    .services1{
+        width: 100%;
+        height: 90vh;
+        background: white;
+        justify-content: center;
+        margin-bottom: 200px;
+    }
+    .services1 h6{
+        color: red;
+
+    }
+    .imgdiv{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 45%;
+    }
+    .main-content{
+       text-align: center;
+       margin-top: 50px;
+    }
+    .services {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.service {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+.service img {
+    width: 50px;
+    height: 50px;
+}
+
+.service h2 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.service p {
+    font-size: 14px;
+    color: #777;
+}
+
+.service a {
+    display: block;
+    margin-top: 10px;
+    color: #e63946;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.car-image {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.car-image img {
+    width: 500px;
+}
+
+.view-all-services {
+    background-color: #e63946;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin-left: 630px;
+}
+.aboutimg{
+    background-image: url(img/about-abs-banner.png);
+    width: 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+}
+.aboutimg img{
+  float: left;
+  margin-left: 640px;
+  width: 20%;
+  margin-top: 100px;
+}
+.about{
+    background-color: darkblue;
+}
+.content1 h4{
+    color: aqua;
+    margin-left:1100px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.content1 h1{
+    margin-left:970px;
+    color: white;
+   
+}
+.content1 p{
+   width:35%;
+   margin-top: 20px;
+   color: white;
+   margin-left:950px;
+}
+.cards{
+    width:100%;
+    min-height: 100vh;
+    
+}
+.work{
+    background-color: #ebe6e6;
+    height: 120vh;
+}
+.work1{
+background-image: url(img/work-1.jpg);
+height: 50vh;
+background-repeat: no-repeat;
+margin-left: 150px;
+background-color: red;
+width: 350px;
+
+}
+.work2{
+background-image: url(img/work-2.jpg);
+height: 50vh;
+background-repeat: no-repeat;
+margin-left: 70px;
+width: 350px;
+}
+.work3{
+background-image: url(img/work-3.jpg);
+height: 50vh;
+background-repeat: no-repeat;
+margin-left: 70px;
+width: 350px;
+}
+.tyre{
+    background-color: white;
+    min-height: 20vh;
+    margin-top: 350px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.tyre input{
+    width:60px;
+    height: 60px;
+    border-radius: 600px;
+    background-color: #e63946;
+    color: white;
+    font-size: 25px;
+
+}
+.engine{
+    background-color: white;
+    min-height: 20vh;
+    margin-top: 350px;
+    text-align: center;
+    padding-top: 30px;
+}
+.engine input{
+    width:60px;
+    height: 60px;
+    border-radius: 600px;
+    background-color: #e63946;
+    color: white;
+    font-size: 25px;
+
+}
+.battery{
+    background-color: white;
+    min-height: 20vh;
+    margin-top: 350px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.battery input{
+    width:60px;
+    height: 60px;
+    border-radius: 600px;
+    background-color: #e63946;
+    color: white;
+    font-size: 25px;
+}
+.content3{
+    text-align: center;
+    margin-top: 100px;
+   
+    height: 10px;
+}
+.content3 h6{
+    color: red;
+   
+}
+.main-section{
+    background-color: darkblue;
+    color: white;
+}
+.main-footer1{
+    background-color: darkblue;
+    color: white;
+}
+.icon1{
+    background-color: darkblue;
+    color: white;
+}
